@@ -1,0 +1,5 @@
+"@timestamp","event.code","agent.hostname","agent.version","winlog.event_data.DisplayName","user.target.name"
+"May 19, 2025 @ 06:13:01",4732,"DESKTOP-4DF7O9I","9.0.1","-","-"
+"May 19, 2025 @ 06:12:56",4732,"DESKTOP-4DF7O9I","9.0.1","-","-"
+"May 19, 2025 @ 06:12:56",4720,"DESKTOP-4DF7O9I","9.0.1","<value not set>",support3
+"May 19, 2025 @ 06:12:56",4728,"DESKTOP-4DF7O9I","9.0.1","-","-"
